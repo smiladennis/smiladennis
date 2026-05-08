@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smiladennis
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning data visualization(Data_Studio)
 - 💞️ I’m looking to collaborate on further python developers
 - 📫 How to reach me smiladennis@gmail.com
 - 😄 Pronouns: She
